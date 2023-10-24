@@ -5,7 +5,7 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Remove Backgrounds AI",
+  title: "AIVIDBG",
   description: "Remove the background of videos using AI - 100% automatically",
 };
 

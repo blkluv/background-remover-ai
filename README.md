@@ -22,7 +22,7 @@ Welcome to our AI Video Background Remover web app! This tool allows you to effo
 
 ## Usage
 
-To use the web app, visit www.removebackgroundsai.com Upload your video, and let our AI do the rest. You'll have a beautifully edited video in no time!
+To use the web app, visit aividbg.arvrtise.com Upload your video, and let our AI do the rest. You'll have a beautifully edited video in no time!
 
 ## Compatibility
 

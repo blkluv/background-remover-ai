@@ -9,7 +9,7 @@ const page = () => {
         </h1>
         <p className='desc text-left'>
             You will receive an email with the video soon! <br /> <br />
-            If you don't receive the email in the next hour, please reach out to <i> carbonelli.francisco@gmail.com</i> for support
+            If you don't receive the email in the next hour, please reach out to <i> info@arvrtise.com</i> for support
         </p>
 
         <div className='mt-10 '>

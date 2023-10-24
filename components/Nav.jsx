@@ -42,7 +42,7 @@ const Nav = () => {
           height={30}
           className='object-contain'
         />
-        <p className='logo_text'>Remove Backgrounds AI</p>
+        <p className='logo_text'>AIVIDBG</p>
       </Link>
       <div>
         <div className='flex gap-3 md:gap-5 '>

@@ -238,7 +238,7 @@ const VideoRenderer = () => {
       • Ensure your video prominently features a person in a clear position for best results. <br />
       • Please note that the rendered video output will NOT include sound. <br />
       • Expect your rendered video in your inbox within 5 to 10 minutes. (check Spam folder)<br />
-      • If it takes longer than an hour, contact us for support at carbonelli.francisco@gmail.com
+      • If it takes longer than an hour, contact us for support at info@arvrtise.com
       </p>
     
 
@@ -309,7 +309,7 @@ const VideoRenderer = () => {
         <BuyButton/>
           
         {/*isFormValid ? (<a
-        href='https://vesica-lab.lemonsqueezy.com/checkout/buy/a1673e8f-ba61-4250-861a-a66f8064aae9?embed=1&logo=0&dark=1'
+        href='https://arvrtise.lemonsqueezy.com/checkout/buy/2d2db376-726d-4b30-afff-ee22fd0e97c3?dark=1'
         class="lemonsqueezy-button p-5 py-2 text-sm bg-primary-orange rounded-full text-white"
     >
         Submit Order 🛒 $4.99

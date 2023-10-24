@@ -206,7 +206,7 @@ const CreatePrompt = () => {
             Cancel
           </Link>
           
-          <a href="https://vesica-lab.lemonsqueezy.com/checkout/buy/a1673e8f-ba61-4250-861a-a66f8064aae9?embed=1&discount=0&dark=1"
+          <a href="https://arvrtise.lemonsqueezy.com/checkout/buy/2d2db376-726d-4b30-afff-ee22fd0e97c3?dark=1"
            class="lemonsqueezy-button px-5 py-1.5 text-sm bg-primary-orange rounded-full text-white">Buy AI Video Background Remover Tool</a>
 
           
